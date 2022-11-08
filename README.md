@@ -13,7 +13,7 @@ Main:
 
 Alt:
 
-<img src="https://profile-counter.glitch.me/hydrovolter/count.svg" />
+<img src="https://profile-counter.glitch.me/hydrocodez/count.svg" />
   
 
 ## Discord
